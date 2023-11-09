@@ -25,6 +25,7 @@ Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/attilado
 I aim to further enhance my skills in Fullstack Development and contribute to meaningful projects that make a positive impact.
 
 ## 🌟 Fun Fact
-I have a lot of hobbies 😁
+I have a lot of hobbies.
+You can talk with me about Computer Science, Cars, Dance, Gaming, Cooking all day long. 😁✌
 
 Thanks for visiting my profile! Let's connect and collaborate on exciting projects.
