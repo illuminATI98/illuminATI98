@@ -19,12 +19,12 @@ I'm a Junior Fullstack Developer passionate about building scalable applications
 I'm currently diving deeper into Typescript / Next.js / Vue.js. 
 
 ## 📫 How to Reach Me
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/attiladobi98) or [Email](attiladobi100@gmail.com).
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/attiladobi98) or Email: attiladobi100@gmail.com
 
 ## 🎯 Goals
-I aim to further enhance my skills in [Fullstack Development] and contribute to meaningful projects that make a positive impact.
+I aim to further enhance my skills in Fullstack Development and contribute to meaningful projects that make a positive impact.
 
 ## 🌟 Fun Fact
-[I have a lot of hobbies 😁]
+I have a lot of hobbies 😁
 
 Thanks for visiting my profile! Let's connect and collaborate on exciting projects.
